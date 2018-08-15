@@ -6,6 +6,5 @@ int main(void)
 		printf("Hello World");
 		printf("Hello Word!!!\n");
 	}
-	printf("WOW!!!");
 	return 0;
 }
